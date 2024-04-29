@@ -1,0 +1,6 @@
+C:\Repositories\Nexus Examples\Simple Example Actions\obj\Debug\Simple Example Actions.csproj.AssemblyReference.cache
+C:\Repositories\Nexus Examples\Simple Example Actions\obj\Debug\Simple Example Actions.csproj.CoreCompileInputs.cache
+C:\Repositories\Nexus Examples\Simple Example Actions\bin\Debug\Nexus Examples.dll
+C:\Repositories\Nexus Examples\Simple Example Actions\bin\Debug\Nexus Examples.pdb
+C:\Repositories\Nexus Examples\Simple Example Actions\obj\Debug\Nexus Examples.dll
+C:\Repositories\Nexus Examples\Simple Example Actions\obj\Debug\Nexus Examples.pdb
