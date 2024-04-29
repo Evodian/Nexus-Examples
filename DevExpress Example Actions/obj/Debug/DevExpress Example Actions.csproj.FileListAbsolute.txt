@@ -1,0 +1,56 @@
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.dll.config
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.pdb
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Repositories\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Repositories\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.AssemblyReference.cache
+C:\Repositories\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.CoreCompileInputs.cache
+C:\Repositories\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.CopyComplete
+C:\Repositories\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.dll
+C:\Repositories\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.pdb
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.dll.config
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress Example Actions.pdb
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Repositories\Nexus Examples\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.AssemblyReference.cache
+C:\Repositories\Nexus Examples\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.CoreCompileInputs.cache
+C:\Repositories\Nexus Examples\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.csproj.CopyComplete
+C:\Repositories\Nexus Examples\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.dll
+C:\Repositories\Nexus Examples\DevExpress Example Actions\obj\Debug\DevExpress Example Actions.pdb
